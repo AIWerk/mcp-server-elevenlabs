@@ -7294,7 +7294,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_chapter",
     domain: "studio",
-    description: "Create Chapter Spends ElevenLabs credits.",
+    description: "Create Chapter. Spends ElevenLabs credits.",
     inputSchema: addChapterInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7304,7 +7304,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_documentation_to_knowledge_base",
     domain: "agents-platform",
-    description: "Add To Knowledge Base Deprecated upstream.",
+    description: "Add To Knowledge Base. Deprecated upstream.",
     inputSchema: addDocumentationToKnowledgeBaseInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7314,7 +7314,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_from_file",
     domain: "pronunciation-dictionary",
-    description: "Add A Pronunciation Dictionary",
+    description: "Add A Pronunciation Dictionary.",
     inputSchema: addFromFileInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7324,7 +7324,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_from_rules",
     domain: "pronunciation-dictionary",
-    description: "Add A Pronunciation Dictionary",
+    description: "Add A Pronunciation Dictionary.",
     inputSchema: addFromRulesInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7334,7 +7334,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_language",
     domain: "dubbing",
-    description: "Add A Language To The Resource Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Add A Language To The Resource. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: addLanguageInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7344,7 +7344,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_mcp_server_tool_approval_route",
     domain: "agents-platform",
-    description: "Create Mcp Server Tool Approval",
+    description: "Create Mcp Server Tool Approval.",
     inputSchema: addMcpServerToolApprovalRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7354,7 +7354,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_mcp_tool_config_override_route",
     domain: "agents-platform",
-    description: "Create Mcp Tool Configuration Override",
+    description: "Create Mcp Tool Configuration Override.",
     inputSchema: addMcpToolConfigOverrideRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7364,7 +7364,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_member",
     domain: "workspace",
-    description: "Add Member To User Group",
+    description: "Add Member To User Group.",
     inputSchema: addMemberInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7374,7 +7374,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_project",
     domain: "studio",
-    description: "Create Studio Project Spends ElevenLabs credits.",
+    description: "Create Studio Project. Spends ElevenLabs credits.",
     inputSchema: addProjectInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7384,7 +7384,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_pvc_voice_samples",
     domain: "pvc-voices",
-    description: "Add Samples To Pvc Voice",
+    description: "Add Samples To Pvc Voice.",
     inputSchema: addPvcVoiceSamplesInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7394,7 +7394,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_rules",
     domain: "pronunciation-dictionary",
-    description: "Add Rules To The Pronunciation Dictionary",
+    description: "Add Rules To The Pronunciation Dictionary.",
     inputSchema: addRulesInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7404,7 +7404,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_sharing_voice",
     domain: "voices",
-    description: "Add Shared Voice",
+    description: "Add Shared Voice.",
     inputSchema: addSharingVoiceInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7414,7 +7414,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_ticket_comment_route",
     domain: "convai",
-    description: "Add Comment To Agent Conversation Ticket",
+    description: "Add Comment To Agent Conversation Ticket.",
     inputSchema: addTicketCommentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7424,7 +7424,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_tool_route",
     domain: "agents-platform",
-    description: "Add Tool",
+    description: "Add Tool.",
     inputSchema: addToolRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7434,7 +7434,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_turn_comment_route",
     domain: "convai",
-    description: "Add Turn Comment To Agent Conversation Ticket",
+    description: "Add Turn Comment To Agent Conversation Ticket.",
     inputSchema: addTurnCommentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7444,7 +7444,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "add_voice",
     domain: "voices",
-    description: "Add Voice",
+    description: "Add Voice.",
     inputSchema: addVoiceInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7454,7 +7454,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "agent_testing_bulk_move_route",
     domain: "agents-platform",
-    description: "Bulk Move Tests To Folder",
+    description: "Bulk Move Tests To Folder.",
     inputSchema: agentTestingBulkMoveRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7464,7 +7464,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "assign_conversation_tags_route",
     domain: "agents-platform",
-    description: "Assign Conversation Tags",
+    description: "Assign Conversation Tags.",
     inputSchema: assignConversationTagsRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7474,7 +7474,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "audio_isolation",
     domain: "audio-isolation",
-    description: "Audio Isolation Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Audio Isolation. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: audioIsolationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7484,7 +7484,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "audio_isolation_stream",
     domain: "audio-isolation",
-    description: "Audio Isolation Stream Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Audio Isolation Stream. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: audioIsolationStreamInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7494,7 +7494,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "audio_native_project_update_content_endpoint",
     domain: "audio-native",
-    description: "Update Audio-Native Project Content",
+    description: "Update Audio-Native Project Content.",
     inputSchema: audioNativeProjectUpdateContentEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7504,7 +7504,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "audio_native_update_content_from_url",
     domain: "audio-native",
-    description: "Update Audio-Native Content From Url",
+    description: "Update Audio-Native Content From Url.",
     inputSchema: audioNativeUpdateContentFromUrlInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7524,7 +7524,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "cancel_crawl_job_route",
     domain: "conversational-ai",
-    description: "Cancel Crawl Job",
+    description: "Cancel Crawl Job.",
     inputSchema: cancelCrawlJobRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7534,7 +7534,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "cancel_file_upload_route",
     domain: "agents-platform",
-    description: "Delete File Upload",
+    description: "Delete File Upload.",
     inputSchema: cancelFileUploadRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -7544,7 +7544,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "compile_procedures_route",
     domain: "agents-platform",
-    description: "Compile Procedures",
+    description: "Compile Procedures.",
     inputSchema: compileProceduresRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7554,7 +7554,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "compose_detailed",
     domain: "music-generation",
-    description: "Compose Music With A Detailed Response Spends ElevenLabs credits.",
+    description: "Compose Music With A Detailed Response. Spends ElevenLabs credits.",
     inputSchema: composeDetailedInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7564,7 +7564,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "compose_detailed_stream",
     domain: "music-generation",
-    description: "Stream Composed Music With A Detailed Response Spends ElevenLabs credits.",
+    description: "Stream Composed Music With A Detailed Response. Spends ElevenLabs credits.",
     inputSchema: composeDetailedStreamInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7574,7 +7574,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "compose_plan",
     domain: "music-generation",
-    description: "Generate Composition Plan Spends ElevenLabs credits.",
+    description: "Generate Composition Plan. Spends ElevenLabs credits.",
     inputSchema: composePlanInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7584,7 +7584,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "convert_chapter_endpoint",
     domain: "studio",
-    description: "Convert Chapter Spends ElevenLabs credits.",
+    description: "Convert Chapter. Spends ElevenLabs credits.",
     inputSchema: convertChapterEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7594,7 +7594,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "convert_project_endpoint",
     domain: "studio",
-    description: "Convert Studio Project Spends ElevenLabs credits.",
+    description: "Convert Studio Project. Spends ElevenLabs credits.",
     inputSchema: convertProjectEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7604,7 +7604,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_agent_conversation_ticket_route",
     domain: "convai",
-    description: "Create Agent Conversation Ticket",
+    description: "Create Agent Conversation Ticket.",
     inputSchema: createAgentConversationTicketRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7614,7 +7614,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_agent_deployment_route",
     domain: "agents-platform",
-    description: "Create Or Update Deployments",
+    description: "Create Or Update Deployments.",
     inputSchema: createAgentDeploymentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7624,7 +7624,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_agent_draft_route",
     domain: "agents-platform",
-    description: "Create Agent Draft",
+    description: "Create Agent Draft.",
     inputSchema: createAgentDraftRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7634,7 +7634,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_agent_response_test_route",
     domain: "convai",
-    description: "Create Agent Response Test",
+    description: "Create Agent Response Test.",
     inputSchema: createAgentResponseTestRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7644,7 +7644,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_agent_route",
     domain: "agents-platform",
-    description: "Create Agent",
+    description: "Create Agent.",
     inputSchema: createAgentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7654,7 +7654,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_agent_test_folder_route",
     domain: "agents-platform",
-    description: "Create Agent Test Folder",
+    description: "Create Agent Test Folder.",
     inputSchema: createAgentTestFolderRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7674,7 +7674,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_auth_connection",
     domain: "workspace",
-    description: "Create Workspace Auth Connection",
+    description: "Create Workspace Auth Connection.",
     inputSchema: createAuthConnectionInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7694,7 +7694,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_branch_route",
     domain: "agents-platform",
-    description: "Create A New Branch",
+    description: "Create A New Branch.",
     inputSchema: createBranchRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7704,7 +7704,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_clip",
     domain: "dubbing",
-    description: "Create A Segment For The Speaker Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Create A Segment For The Speaker. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: createClipInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7714,7 +7714,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_conversation_tag_route",
     domain: "agents-platform",
-    description: "Create Conversation Tag",
+    description: "Create Conversation Tag.",
     inputSchema: createConversationTagRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7724,7 +7724,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_crawl_job_route",
     domain: "conversational-ai",
-    description: "Create Crawl Job",
+    description: "Create Crawl Job.",
     inputSchema: createCrawlJobRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7734,7 +7734,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_dubbing",
     domain: "dubbing",
-    description: "Dub A Video Or An Audio File Spends ElevenLabs credits.",
+    description: "Dub A Video Or An Audio File. Spends ElevenLabs credits.",
     inputSchema: createDubbingInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7744,7 +7744,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_environment_variable",
     domain: "agents-platform",
-    description: "Create Environment Variable",
+    description: "Create Environment Variable.",
     inputSchema: createEnvironmentVariableInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7754,7 +7754,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_file_document_route",
     domain: "agents-platform",
-    description: "Create File Document",
+    description: "Create File Document.",
     inputSchema: createFileDocumentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7764,7 +7764,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_finetune",
     domain: "music-finetunes",
-    description: "Create Music Finetune Spends ElevenLabs credits.",
+    description: "Create Music Finetune. Spends ElevenLabs credits.",
     inputSchema: createFinetuneInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7774,7 +7774,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_folder_route",
     domain: "conversational-ai",
-    description: "Create Folder",
+    description: "Create Folder.",
     inputSchema: createFolderRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7784,7 +7784,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_image_generation",
     domain: "flows",
-    description: "Create Image Generation",
+    description: "Create Image Generation.",
     inputSchema: createImageGenerationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7794,7 +7794,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_manual_agent_ticket_route",
     domain: "convai",
-    description: "Create Manual Agent Ticket",
+    description: "Create Manual Agent Ticket.",
     inputSchema: createManualAgentTicketRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7804,7 +7804,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_mcp_server_route",
     domain: "agents-platform",
-    description: "Create Mcp Server",
+    description: "Create Mcp Server.",
     inputSchema: createMcpServerRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7814,7 +7814,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_phone_number_route",
     domain: "agents-platform",
-    description: "Import Phone Number",
+    description: "Import Phone Number.",
     inputSchema: createPhoneNumberRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7824,7 +7824,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_podcast",
     domain: "studio",
-    description: "Create Podcast Spends ElevenLabs credits.",
+    description: "Create Podcast. Spends ElevenLabs credits.",
     inputSchema: createPodcastInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7834,7 +7834,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_procedure_route",
     domain: "agents-platform",
-    description: "Create Procedure",
+    description: "Create Procedure.",
     inputSchema: createProcedureRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7844,7 +7844,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_pvc_voice",
     domain: "pvc-voices",
-    description: "Create Pvc Voice",
+    description: "Create Pvc Voice.",
     inputSchema: createPvcVoiceInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7854,7 +7854,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_secret_route",
     domain: "agents-platform",
-    description: "Create Convai Workspace Secret",
+    description: "Create Convai Workspace Secret.",
     inputSchema: createSecretRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7864,7 +7864,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_service_account",
     domain: "workspace",
-    description: "Create Service Account",
+    description: "Create Service Account.",
     inputSchema: createServiceAccountInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7874,7 +7874,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_service_account_api_key",
     domain: "workspace",
-    description: "Create Service Account Api Key",
+    description: "Create Service Account Api Key.",
     inputSchema: createServiceAccountApiKeyInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7884,7 +7884,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_speaker",
     domain: "dubbing",
-    description: "Create A New Speaker Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Create A New Speaker. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: createSpeakerInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7894,7 +7894,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_speech_engine",
     domain: "speech-engine",
-    description: "Create Speech Engine",
+    description: "Create Speech Engine.",
     inputSchema: createSpeechEngineInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7904,7 +7904,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_text_document_route",
     domain: "agents-platform",
-    description: "Create Text Document",
+    description: "Create Text Document.",
     inputSchema: createTextDocumentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7914,7 +7914,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_text_to_speech_generation",
     domain: "flows",
-    description: "Create Speech Generation",
+    description: "Create Speech Generation.",
     inputSchema: createTextToSpeechGenerationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7924,7 +7924,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_url_document_route",
     domain: "agents-platform",
-    description: "Create Url Document",
+    description: "Create Url Document.",
     inputSchema: createUrlDocumentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7934,7 +7934,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_video_generation",
     domain: "flows",
-    description: "Create Video Generation",
+    description: "Create Video Generation.",
     inputSchema: createVideoGenerationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7944,7 +7944,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_voice",
     domain: "text-to-voice",
-    description: "Create A New Voice From Voice Preview Spends ElevenLabs credits.",
+    description: "Create A New Voice From Voice Preview. Spends ElevenLabs credits.",
     inputSchema: createVoiceInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -7954,7 +7954,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "create_workspace_webhook_route",
     domain: "workspace",
-    description: "Create Workspace Webhook",
+    description: "Create Workspace Webhook.",
     inputSchema: createWorkspaceWebhookRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -7964,7 +7964,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_agent_conversation_ticket_route",
     domain: "convai",
-    description: "Delete Agent Conversation Ticket",
+    description: "Delete Agent Conversation Ticket.",
     inputSchema: deleteAgentConversationTicketRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -7974,7 +7974,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_agent_draft_route",
     domain: "agents-platform",
-    description: "Delete Agent Draft",
+    description: "Delete Agent Draft.",
     inputSchema: deleteAgentDraftRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -7984,7 +7984,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_agent_hold_audio_route",
     domain: "agents-platform",
-    description: "Delete Agent Hold Audio",
+    description: "Delete Agent Hold Audio.",
     inputSchema: deleteAgentHoldAudioRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -7994,7 +7994,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_agent_route",
     domain: "agents-platform",
-    description: "Delete Agent",
+    description: "Delete Agent.",
     inputSchema: deleteAgentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8004,7 +8004,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_agent_test_folder_route",
     domain: "agents-platform",
-    description: "Delete Agent Test Folder",
+    description: "Delete Agent Test Folder.",
     inputSchema: deleteAgentTestFolderRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8014,7 +8014,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_asset_endpoint",
     domain: "assets",
-    description: "Delete Asset",
+    description: "Delete Asset.",
     inputSchema: deleteAssetEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8024,7 +8024,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_audio_isolation_history_item",
     domain: "audio-isolation",
-    description: "Delete Audio Isolation History Item",
+    description: "Delete Audio Isolation History Item.",
     inputSchema: deleteAudioIsolationHistoryItemInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8034,7 +8034,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_auth_connection",
     domain: "workspace",
-    description: "Delete Workspace Auth Connection",
+    description: "Delete Workspace Auth Connection.",
     inputSchema: deleteAuthConnectionInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8054,7 +8054,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_chapter_endpoint",
     domain: "studio",
-    description: "Delete Chapter",
+    description: "Delete Chapter.",
     inputSchema: deleteChapterEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8064,7 +8064,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_chat_response_test_route",
     domain: "convai",
-    description: "Delete Agent Response Test",
+    description: "Delete Agent Response Test.",
     inputSchema: deleteChatResponseTestRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8074,7 +8074,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_conversation_route",
     domain: "agents-platform",
-    description: "Delete Conversation",
+    description: "Delete Conversation.",
     inputSchema: deleteConversationRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8084,7 +8084,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_conversation_tag_route",
     domain: "agents-platform",
-    description: "Delete Conversation Tag",
+    description: "Delete Conversation Tag.",
     inputSchema: deleteConversationTagRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8094,7 +8094,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_dubbing",
     domain: "dubbing",
-    description: "Delete Dubbing",
+    description: "Delete Dubbing.",
     inputSchema: deleteDubbingInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8104,7 +8104,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_finetune",
     domain: "music-finetunes",
-    description: "Delete Music Finetune",
+    description: "Delete Music Finetune.",
     inputSchema: deleteFinetuneInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8114,7 +8114,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_invite",
     domain: "workspace",
-    description: "Delete Existing Invitation",
+    description: "Delete Existing Invitation.",
     inputSchema: deleteInviteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8124,7 +8124,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_knowledge_base_document",
     domain: "agents-platform",
-    description: "Delete Knowledge Base Document Or Folder",
+    description: "Delete Knowledge Base Document Or Folder.",
     inputSchema: deleteKnowledgeBaseDocumentInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8134,7 +8134,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_mcp_server_route",
     domain: "agents-platform",
-    description: "Delete Mcp Server",
+    description: "Delete Mcp Server.",
     inputSchema: deleteMcpServerRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8144,7 +8144,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_phone_number_route",
     domain: "agents-platform",
-    description: "Delete Phone Number",
+    description: "Delete Phone Number.",
     inputSchema: deletePhoneNumberRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8154,7 +8154,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_procedure_draft_route",
     domain: "agents-platform",
-    description: "Delete Procedure Draft",
+    description: "Delete Procedure Draft.",
     inputSchema: deleteProcedureDraftRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8164,7 +8164,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_project",
     domain: "studio",
-    description: "Delete Studio Project",
+    description: "Delete Studio Project.",
     inputSchema: deleteProjectInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8174,7 +8174,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_pvc_voice_sample",
     domain: "pvc-voices",
-    description: "Delete Pvc Voice Sample",
+    description: "Delete Pvc Voice Sample.",
     inputSchema: deletePvcVoiceSampleInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8194,7 +8194,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_sample",
     domain: "samples",
-    description: "Delete Sample",
+    description: "Delete Sample.",
     inputSchema: deleteSampleInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8204,7 +8204,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_secret_route",
     domain: "agents-platform",
-    description: "Delete Convai Workspace Secret",
+    description: "Delete Convai Workspace Secret.",
     inputSchema: deleteSecretRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8214,7 +8214,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_segment",
     domain: "dubbing",
-    description: "Deletes A Single Segment Deprecated upstream.",
+    description: "Deletes A Single Segment. Deprecated upstream.",
     inputSchema: deleteSegmentInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8224,7 +8224,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_service_account_api_key",
     domain: "workspace",
-    description: "Delete Service Account Api Key",
+    description: "Delete Service Account Api Key.",
     inputSchema: deleteServiceAccountApiKeyInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8234,7 +8234,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_speech_engine",
     domain: "speech-engine",
-    description: "Delete Speech Engine",
+    description: "Delete Speech Engine.",
     inputSchema: deleteSpeechEngineInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8244,7 +8244,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_speech_history_item",
     domain: "speech-history",
-    description: "Delete History Item",
+    description: "Delete History Item.",
     inputSchema: deleteSpeechHistoryItemInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8254,7 +8254,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_tool_route",
     domain: "agents-platform",
-    description: "Delete Tool",
+    description: "Delete Tool.",
     inputSchema: deleteToolRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8264,7 +8264,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_transcript_by_id",
     domain: "speech-to-text",
-    description: "Delete Transcript By Id",
+    description: "Delete Transcript By Id.",
     inputSchema: deleteTranscriptByIdInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8274,7 +8274,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_voice",
     domain: "voices",
-    description: "Delete Voice",
+    description: "Delete Voice.",
     inputSchema: deleteVoiceInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8284,7 +8284,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_whatsapp_account",
     domain: "agents-platform",
-    description: "Delete Whatsapp Account",
+    description: "Delete Whatsapp Account.",
     inputSchema: deleteWhatsappAccountInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8294,7 +8294,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "delete_workspace_webhook_route",
     domain: "workspace",
-    description: "Delete Workspace Webhook",
+    description: "Delete Workspace Webhook.",
     inputSchema: deleteWorkspaceWebhookRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8304,7 +8304,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "disable",
     domain: "workspace",
-    description: "Disable Api Key",
+    description: "Disable Api Key.",
     inputSchema: disableInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8314,7 +8314,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "download_speech_history_items",
     domain: "speech-history",
-    description: "Download History Items Returns application/zip bytes; pass output_path to save them.",
+    description: "Download History Items. Returns application/zip bytes; pass output_path to save them.",
     inputSchema: downloadSpeechHistoryItemsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8324,7 +8324,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dub",
     domain: "dubbing",
-    description: "Dubs All Or Some Segments And Languages Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Dubs All Or Some Segments And Languages. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: dubInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8334,7 +8334,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_language_create",
     domain: "dubbing",
-    description: "Create Dubbing Language Target Spends ElevenLabs credits.",
+    description: "Create Dubbing Language Target. Spends ElevenLabs credits.",
     inputSchema: dubbingLanguageCreateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8344,7 +8344,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_language_delete",
     domain: "dubbing",
-    description: "Delete Dubbing Language Target",
+    description: "Delete Dubbing Language Target.",
     inputSchema: dubbingLanguageDeleteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8354,7 +8354,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_language_get",
     domain: "dubbing",
-    description: "Get Dubbing Language Target",
+    description: "Get Dubbing Language Target.",
     inputSchema: dubbingLanguageGetInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8364,7 +8364,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_language_list",
     domain: "dubbing",
-    description: "List Dubbing Language Targets",
+    description: "List Dubbing Language Targets.",
     inputSchema: dubbingLanguageListInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8374,7 +8374,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_project_create",
     domain: "dubbing",
-    description: "Create Dubbing Project Spends ElevenLabs credits.",
+    description: "Create Dubbing Project. Spends ElevenLabs credits.",
     inputSchema: dubbingProjectCreateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8384,7 +8384,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_project_delete",
     domain: "dubbing",
-    description: "Delete Dubbing Project",
+    description: "Delete Dubbing Project.",
     inputSchema: dubbingProjectDeleteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8394,7 +8394,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_project_get",
     domain: "dubbing",
-    description: "Get Dubbing Project",
+    description: "Get Dubbing Project.",
     inputSchema: dubbingProjectGetInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8404,7 +8404,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_project_list",
     domain: "dubbing",
-    description: "List Dubbing Projects",
+    description: "List Dubbing Projects.",
     inputSchema: dubbingProjectListInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8414,7 +8414,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_target_transcript_get",
     domain: "dubbing",
-    description: "Get Dubbing Target Transcript",
+    description: "Get Dubbing Target Transcript.",
     inputSchema: dubbingTargetTranscriptGetInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8424,7 +8424,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_target_transcript_regenerate",
     domain: "dubbing",
-    description: "Regenerate Dubbing Target Spends ElevenLabs credits.",
+    description: "Regenerate Dubbing Target. Spends ElevenLabs credits.",
     inputSchema: dubbingTargetTranscriptRegenerateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8434,7 +8434,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_target_transcript_segment_update",
     domain: "dubbing",
-    description: "Update Dubbing Target Transcript Segment Spends ElevenLabs credits.",
+    description: "Update Dubbing Target Transcript Segment. Spends ElevenLabs credits.",
     inputSchema: dubbingTargetTranscriptSegmentUpdateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8444,7 +8444,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_target_transcript_segments_update",
     domain: "dubbing",
-    description: "Update Dubbing Target Transcript Segments Spends ElevenLabs credits.",
+    description: "Update Dubbing Target Transcript Segments. Spends ElevenLabs credits.",
     inputSchema: dubbingTargetTranscriptSegmentsUpdateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8454,7 +8454,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_transcript_get",
     domain: "dubbing",
-    description: "Get Dubbing Transcript",
+    description: "Get Dubbing Transcript.",
     inputSchema: dubbingTranscriptGetInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8464,7 +8464,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_transcript_segment_add",
     domain: "dubbing",
-    description: "Add Dubbing Transcript Segment Spends ElevenLabs credits.",
+    description: "Add Dubbing Transcript Segment. Spends ElevenLabs credits.",
     inputSchema: dubbingTranscriptSegmentAddInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8474,7 +8474,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_transcript_segment_delete",
     domain: "dubbing",
-    description: "Delete Dubbing Transcript Segment",
+    description: "Delete Dubbing Transcript Segment.",
     inputSchema: dubbingTranscriptSegmentDeleteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -8484,7 +8484,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_transcript_segment_update",
     domain: "dubbing",
-    description: "Update Dubbing Transcript Segment Spends ElevenLabs credits.",
+    description: "Update Dubbing Transcript Segment. Spends ElevenLabs credits.",
     inputSchema: dubbingTranscriptSegmentUpdateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8494,7 +8494,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "dubbing_transcript_segments_update",
     domain: "dubbing",
-    description: "Update Dubbing Transcript Segments Spends ElevenLabs credits.",
+    description: "Update Dubbing Transcript Segments. Spends ElevenLabs credits.",
     inputSchema: dubbingTranscriptSegmentsUpdateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8504,7 +8504,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "duplicate_agent_route",
     domain: "agents-platform",
-    description: "Duplicate Agent",
+    description: "Duplicate Agent.",
     inputSchema: duplicateAgentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8514,7 +8514,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_chapter",
     domain: "studio",
-    description: "Update Chapter Spends ElevenLabs credits.",
+    description: "Update Chapter. Spends ElevenLabs credits.",
     inputSchema: editChapterInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8524,7 +8524,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_project",
     domain: "studio",
-    description: "Update Studio Project Spends ElevenLabs credits.",
+    description: "Update Studio Project. Spends ElevenLabs credits.",
     inputSchema: editProjectInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8534,7 +8534,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_project_content",
     domain: "studio",
-    description: "Update Studio Project Content Spends ElevenLabs credits.",
+    description: "Update Studio Project Content. Spends ElevenLabs credits.",
     inputSchema: editProjectContentInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8544,7 +8544,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_pvc_voice",
     domain: "pvc-voices",
-    description: "Edit Pvc Voice",
+    description: "Edit Pvc Voice.",
     inputSchema: editPvcVoiceInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8554,7 +8554,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_pvc_voice_sample",
     domain: "pvc-voices",
-    description: "Update Pvc Voice Sample",
+    description: "Update Pvc Voice Sample.",
     inputSchema: editPvcVoiceSampleInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8564,7 +8564,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_service_account_api_key",
     domain: "workspace",
-    description: "Edit Service Account Api Key",
+    description: "Edit Service Account Api Key.",
     inputSchema: editServiceAccountApiKeyInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8574,7 +8574,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_voice",
     domain: "voices",
-    description: "Edit Voice",
+    description: "Edit Voice.",
     inputSchema: editVoiceInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8584,7 +8584,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_voice_settings",
     domain: "voices",
-    description: "Edit Voice Settings",
+    description: "Edit Voice Settings.",
     inputSchema: editVoiceSettingsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8594,7 +8594,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "edit_workspace_webhook_route",
     domain: "workspace",
-    description: "Update Workspace Webhook",
+    description: "Update Workspace Webhook.",
     inputSchema: editWorkspaceWebhookRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8604,7 +8604,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "export_batch_call",
     domain: "agents-platform",
-    description: "Export Batch Call Results",
+    description: "Export Batch Call Results.",
     inputSchema: exportBatchCallInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8614,7 +8614,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "forced_alignment",
     domain: "forced-alignment",
-    description: "Create Forced Alignment Spends ElevenLabs credits.",
+    description: "Create Forced Alignment. Spends ElevenLabs credits.",
     inputSchema: forcedAlignmentInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8624,7 +8624,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "generate",
     domain: "music-generation",
-    description: "Compose Music Spends ElevenLabs credits. Returns audio/* bytes; pass output_path to save them.",
+    description: "Compose Music. Spends ElevenLabs credits. Returns audio/* bytes; pass output_path to save them.",
     inputSchema: generateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -8634,7 +8634,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_conversation_ticket_route",
     domain: "convai",
-    description: "Get Agent Conversation Ticket",
+    description: "Get Agent Conversation Ticket.",
     inputSchema: getAgentConversationTicketRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8644,7 +8644,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_knowledge_base_size",
     domain: "agents-platform",
-    description: "Returns The Size Of The Agent'S Knowledge Base",
+    description: "Returns The Size Of The Agent'S Knowledge Base.",
     inputSchema: getAgentKnowledgeBaseSizeInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8654,7 +8654,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_knowledge_base_summaries_route",
     domain: "agents-platform",
-    description: "Get Knowledge Base Summaries By Ids",
+    description: "Get Knowledge Base Summaries By Ids.",
     inputSchema: getAgentKnowledgeBaseSummariesRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8664,7 +8664,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_link_route",
     domain: "agents-platform",
-    description: "Get Shareable Agent Link",
+    description: "Get Shareable Agent Link.",
     inputSchema: getAgentLinkRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8674,7 +8674,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_llm_expected_cost_calculation",
     domain: "agents-platform",
-    description: "Calculate Expected Llm Usage For An Agent",
+    description: "Calculate Expected Llm Usage For An Agent.",
     inputSchema: getAgentLlmExpectedCostCalculationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8684,7 +8684,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_response_test_route",
     domain: "convai",
-    description: "Get Agent Response Test By Id",
+    description: "Get Agent Response Test By Id.",
     inputSchema: getAgentResponseTestRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8694,7 +8694,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_response_tests_summaries_route",
     domain: "convai",
-    description: "Get Agent Response Test Summaries By Ids",
+    description: "Get Agent Response Test Summaries By Ids.",
     inputSchema: getAgentResponseTestsSummariesRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -8704,7 +8704,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_route",
     domain: "agents-platform",
-    description: "Get Agent",
+    description: "Get Agent.",
     inputSchema: getAgentRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8714,7 +8714,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_summaries_route",
     domain: "agents-platform",
-    description: "Get Agent Summaries",
+    description: "Get Agent Summaries.",
     inputSchema: getAgentSummariesRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8724,7 +8724,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_test_folder_route",
     domain: "agents-platform",
-    description: "Get Agent Test Folder By Id",
+    description: "Get Agent Test Folder By Id.",
     inputSchema: getAgentTestFolderRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8734,7 +8734,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_topics_route",
     domain: "agents-insights",
-    description: "Get Agent Conversation Topics",
+    description: "Get Agent Conversation Topics.",
     inputSchema: getAgentTopicsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8744,7 +8744,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agent_widget_route",
     domain: "agents-platform",
-    description: "Get Agent Widget Config",
+    description: "Get Agent Widget Config.",
     inputSchema: getAgentWidgetRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8754,7 +8754,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_agents_route",
     domain: "agents-platform",
-    description: "List Agents",
+    description: "List Agents.",
     inputSchema: getAgentsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8764,7 +8764,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_asset",
     domain: "assets",
-    description: "Get Asset",
+    description: "Get Asset.",
     inputSchema: getAssetInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8774,7 +8774,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_assignable_users_route",
     domain: "convai",
-    description: "Get Agent Conversation Ticket Assignable Users",
+    description: "Get Agent Conversation Ticket Assignable Users.",
     inputSchema: getAssignableUsersRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8784,7 +8784,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_audio_from_sample",
     domain: "samples",
-    description: "Get Audio From Sample Returns audio/* bytes; pass output_path to save them.",
+    description: "Get Audio From Sample. Returns audio/* bytes; pass output_path to save them.",
     inputSchema: getAudioFromSampleInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8794,7 +8794,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_audio_full_from_speech_history_item",
     domain: "speech-history",
-    description: "Get Audio From History Item Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Get Audio From History Item. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: getAudioFullFromSpeechHistoryItemInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8804,7 +8804,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_audio_isolation_history",
     domain: "audio-isolation",
-    description: "Get Audio Isolation History",
+    description: "Get Audio Isolation History.",
     inputSchema: getAudioIsolationHistoryInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8814,7 +8814,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_audio_native_project_settings_endpoint",
     domain: "audio-native",
-    description: "Get Audio Native Project Settings",
+    description: "Get Audio Native Project Settings.",
     inputSchema: getAudioNativeProjectSettingsEndpointInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8834,7 +8834,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_branch_route",
     domain: "agents-platform",
-    description: "Get Agent Branch",
+    description: "Get Agent Branch.",
     inputSchema: getBranchRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8844,7 +8844,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_branches_route",
     domain: "agents-platform",
-    description: "List Agent Branches",
+    description: "List Agent Branches.",
     inputSchema: getBranchesRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8854,7 +8854,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_chapter_by_id_endpoint",
     domain: "studio",
-    description: "Get Chapter",
+    description: "Get Chapter.",
     inputSchema: getChapterByIdEndpointInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8864,7 +8864,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_chapter_snapshot_endpoint",
     domain: "studio",
-    description: "Get Chapter Snapshot",
+    description: "Get Chapter Snapshot.",
     inputSchema: getChapterSnapshotEndpointInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8874,7 +8874,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_chapter_snapshots",
     domain: "studio",
-    description: "List Chapter Snapshots",
+    description: "List Chapter Snapshots.",
     inputSchema: getChapterSnapshotsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8884,7 +8884,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_chapters",
     domain: "studio",
-    description: "List Chapters",
+    description: "List Chapters.",
     inputSchema: getChaptersInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8894,7 +8894,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_conversation_audio_route",
     domain: "agents-platform",
-    description: "Get Conversation Audio Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Get Conversation Audio. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: getConversationAudioRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8904,7 +8904,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_conversation_histories_route",
     domain: "agents-platform",
-    description: "Get Conversations",
+    description: "Get Conversations.",
     inputSchema: getConversationHistoriesRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8914,7 +8914,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_conversation_history_route",
     domain: "agents-platform",
-    description: "Get Conversation Details",
+    description: "Get Conversation Details.",
     inputSchema: getConversationHistoryRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8924,7 +8924,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_conversation_signed_link",
     domain: "agents-platform",
-    description: "Get Signed Url",
+    description: "Get Signed Url.",
     inputSchema: getConversationSignedLinkInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8934,7 +8934,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_conversation_sip_messages",
     domain: "agents-platform",
-    description: "Get Sip Messages For A Conversation",
+    description: "Get Sip Messages For A Conversation.",
     inputSchema: getConversationSipMessagesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8944,7 +8944,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_conversation_summary_route",
     domain: "agents-platform",
-    description: "Get Conversation Summary",
+    description: "Get Conversation Summary.",
     inputSchema: getConversationSummaryRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8954,7 +8954,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_conversation_tag_route",
     domain: "agents-platform",
-    description: "Get Conversation Tag",
+    description: "Get Conversation Tag.",
     inputSchema: getConversationTagRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8964,7 +8964,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_conversation_users_route",
     domain: "agents-platform",
-    description: "Get Conversation Users",
+    description: "Get Conversation Users.",
     inputSchema: getConversationUsersRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8974,7 +8974,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_crawl_job_route",
     domain: "conversational-ai",
-    description: "Get Crawl Job Details",
+    description: "Get Crawl Job Details.",
     inputSchema: getCrawlJobRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8984,7 +8984,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_dashboard_settings_route",
     domain: "agents-platform",
-    description: "Get Convai Dashboard Settings",
+    description: "Get Convai Dashboard Settings.",
     inputSchema: getDashboardSettingsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -8994,7 +8994,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_documentation_chunk_from_knowledge_base",
     domain: "agents-platform",
-    description: "Get Documentation Chunk From Knowledge Base",
+    description: "Get Documentation Chunk From Knowledge Base.",
     inputSchema: getDocumentationChunkFromKnowledgeBaseInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9004,7 +9004,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_documentation_chunks_from_knowledge_base",
     domain: "agents-platform",
-    description: "Get All Rag Chunks For A Document",
+    description: "Get All Rag Chunks For A Document.",
     inputSchema: getDocumentationChunksFromKnowledgeBaseInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9014,7 +9014,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_documentation_from_knowledge_base",
     domain: "agents-platform",
-    description: "Get Documentation From Knowledge Base",
+    description: "Get Documentation From Knowledge Base.",
     inputSchema: getDocumentationFromKnowledgeBaseInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9024,7 +9024,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_dubbed_file",
     domain: "dubbing",
-    description: "Get Dubbed File Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Get Dubbed File. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: getDubbedFileInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9034,7 +9034,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_dubbed_metadata",
     domain: "dubbing",
-    description: "Get Dubbing",
+    description: "Get Dubbing.",
     inputSchema: getDubbedMetadataInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9044,7 +9044,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_dubbed_transcript_file",
     domain: "dubbing",
-    description: "Get Dubbed Transcript Deprecated upstream.",
+    description: "Get Dubbed Transcript. Deprecated upstream.",
     inputSchema: getDubbedTranscriptFileInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9064,7 +9064,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_dubbing_transcripts",
     domain: "dubbing",
-    description: "Retrieve A Transcript",
+    description: "Retrieve A Transcript.",
     inputSchema: getDubbingTranscriptsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9074,7 +9074,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_environment_variable",
     domain: "agents-platform",
-    description: "Get Environment Variable",
+    description: "Get Environment Variable.",
     inputSchema: getEnvironmentVariableInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9084,7 +9084,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_finetune",
     domain: "music-finetunes",
-    description: "Get Music Finetune",
+    description: "Get Music Finetune.",
     inputSchema: getFinetuneInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9094,7 +9094,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_finetunes",
     domain: "music-finetunes",
-    description: "Get Music Finetunes",
+    description: "Get Music Finetunes.",
     inputSchema: getFinetunesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9104,7 +9104,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_groups_endpoint",
     domain: "workspace",
-    description: "Get All Groups",
+    description: "Get All Groups.",
     inputSchema: getGroupsEndpointInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9114,7 +9114,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_image_generation",
     domain: "flows",
-    description: "Get Image Generation",
+    description: "Get Image Generation.",
     inputSchema: getImageGenerationInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9124,7 +9124,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_knowledge_base_bulk_dependent_agents_route",
     domain: "agents-platform",
-    description: "Get Dependent Agents For Multiple Documents",
+    description: "Get Dependent Agents For Multiple Documents.",
     inputSchema: getKnowledgeBaseBulkDependentAgentsRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9134,7 +9134,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_knowledge_base_content",
     domain: "agents-platform",
-    description: "Get Document Content",
+    description: "Get Document Content.",
     inputSchema: getKnowledgeBaseContentInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9144,7 +9144,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_knowledge_base_dependent_agents",
     domain: "agents-platform",
-    description: "Get Dependent Agents List",
+    description: "Get Dependent Agents List.",
     inputSchema: getKnowledgeBaseDependentAgentsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9154,7 +9154,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_knowledge_base_list_route",
     domain: "agents-platform",
-    description: "Get Knowledge Base List",
+    description: "Get Knowledge Base List.",
     inputSchema: getKnowledgeBaseListRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9164,7 +9164,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_knowledge_base_source_file_url",
     domain: "agents-platform",
-    description: "Get Document Source File Url",
+    description: "Get Document Source File Url.",
     inputSchema: getKnowledgeBaseSourceFileUrlInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9174,7 +9174,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_library_voices",
     domain: "voices",
-    description: "Get Voices",
+    description: "Get Voices.",
     inputSchema: getLibraryVoicesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9184,7 +9184,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_live_count",
     domain: "agents-platform",
-    description: "Get Live Count",
+    description: "Get Live Count.",
     inputSchema: getLiveCountInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9194,7 +9194,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_livekit_token",
     domain: "agents-platform",
-    description: "Get Webrtc Token",
+    description: "Get Webrtc Token.",
     inputSchema: getLivekitTokenInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9204,7 +9204,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_mcp_route",
     domain: "agents-platform",
-    description: "Get Mcp Server",
+    description: "Get Mcp Server.",
     inputSchema: getMcpRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9214,7 +9214,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_mcp_tool_config_override_route",
     domain: "agents-platform",
-    description: "Get Mcp Tool Configuration Override",
+    description: "Get Mcp Tool Configuration Override.",
     inputSchema: getMcpToolConfigOverrideRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9224,7 +9224,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_models",
     domain: "models",
-    description: "Get Models",
+    description: "Get Models.",
     inputSchema: getModelsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9234,7 +9234,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_or_create_rag_indexes",
     domain: "agents-platform",
-    description: "Compute Rag Indexes In Batch",
+    description: "Compute Rag Indexes In Batch.",
     inputSchema: getOrCreateRagIndexesInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9244,7 +9244,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_phone_number_route",
     domain: "agents-platform",
-    description: "Get Phone Number",
+    description: "Get Phone Number.",
     inputSchema: getPhoneNumberRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9254,7 +9254,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_procedure_draft_route",
     domain: "agents-platform",
-    description: "Get Procedure Draft",
+    description: "Get Procedure Draft.",
     inputSchema: getProcedureDraftRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9264,7 +9264,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_procedure_route",
     domain: "agents-platform",
-    description: "Get Procedure",
+    description: "Get Procedure.",
     inputSchema: getProcedureRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9274,7 +9274,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_project_by_id",
     domain: "studio",
-    description: "Get Studio Project",
+    description: "Get Studio Project.",
     inputSchema: getProjectByIdInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9284,7 +9284,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_project_muted_tracks_endpoint",
     domain: "studio",
-    description: "Get Project Muted Tracks",
+    description: "Get Project Muted Tracks.",
     inputSchema: getProjectMutedTracksEndpointInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9294,7 +9294,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_project_snapshot_endpoint",
     domain: "studio",
-    description: "Get Project Snapshot",
+    description: "Get Project Snapshot.",
     inputSchema: getProjectSnapshotEndpointInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9304,7 +9304,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_project_snapshots",
     domain: "studio",
-    description: "List Studio Project Snapshots",
+    description: "List Studio Project Snapshots.",
     inputSchema: getProjectSnapshotsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9314,7 +9314,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_projects",
     domain: "studio",
-    description: "List Studio Projects",
+    description: "List Studio Projects.",
     inputSchema: getProjectsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9324,7 +9324,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_pronunciation_dictionaries_metadata",
     domain: "pronunciation-dictionary",
-    description: "Get Pronunciation Dictionaries",
+    description: "Get Pronunciation Dictionaries.",
     inputSchema: getPronunciationDictionariesMetadataInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9334,7 +9334,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_pronunciation_dictionary_metadata",
     domain: "pronunciation-dictionary",
-    description: "Get Metadata For A Pronunciation Dictionary",
+    description: "Get Metadata For A Pronunciation Dictionary.",
     inputSchema: getPronunciationDictionaryMetadataInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9344,7 +9344,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_pronunciation_dictionary_version_pls",
     domain: "pronunciation-dictionary",
-    description: "Get A Pls File With A Pronunciation Dictionary Version Rules",
+    description: "Get A Pls File With A Pronunciation Dictionary Version Rules.",
     inputSchema: getPronunciationDictionaryVersionPlsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9354,7 +9354,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_public_llm_expected_cost_calculation",
     domain: "agents-platform",
-    description: "Calculate Expected Llm Usage",
+    description: "Calculate Expected Llm Usage.",
     inputSchema: getPublicLlmExpectedCostCalculationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9364,7 +9364,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_pvc_sample_audio",
     domain: "pvc-voices",
-    description: "Retrieve Voice Sample Audio",
+    description: "Retrieve Voice Sample Audio.",
     inputSchema: getPvcSampleAudioInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9374,7 +9374,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_pvc_sample_speakers",
     domain: "pvc-voices",
-    description: "Retrieve Speaker Separation Status",
+    description: "Retrieve Speaker Separation Status.",
     inputSchema: getPvcSampleSpeakersInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9384,7 +9384,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_pvc_sample_visual_waveform",
     domain: "pvc-voices",
-    description: "Retrieve Voice Sample Visual Waveform",
+    description: "Retrieve Voice Sample Visual Waveform.",
     inputSchema: getPvcSampleVisualWaveformInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9394,7 +9394,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_pvc_voice_captcha",
     domain: "pvc-voices",
-    description: "Get Pvc Voice Captcha",
+    description: "Get Pvc Voice Captcha.",
     inputSchema: getPvcVoiceCaptchaInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9424,7 +9424,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_resource_metadata",
     domain: "workspace",
-    description: "Get Resource",
+    description: "Get Resource.",
     inputSchema: getResourceMetadataInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9434,7 +9434,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_secret_dependencies_route",
     domain: "agents-platform",
-    description: "Get Secret Dependencies By Type",
+    description: "Get Secret Dependencies By Type.",
     inputSchema: getSecretDependenciesRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9444,7 +9444,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_secret_route",
     domain: "agents-platform",
-    description: "Get Convai Workspace Secret",
+    description: "Get Convai Workspace Secret.",
     inputSchema: getSecretRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9454,7 +9454,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_secrets_route",
     domain: "agents-platform",
-    description: "Get Convai Workspace Secrets",
+    description: "Get Convai Workspace Secrets.",
     inputSchema: getSecretsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9464,7 +9464,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_service_account_api_keys_route",
     domain: "workspace",
-    description: "Get Service Account Api Keys Route",
+    description: "Get Service Account Api Keys Route.",
     inputSchema: getServiceAccountApiKeysRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9474,7 +9474,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_settings_route",
     domain: "agents-platform",
-    description: "Get Convai Settings",
+    description: "Get Convai Settings.",
     inputSchema: getSettingsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9484,7 +9484,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_signed_url_deprecated",
     domain: "agents-platform",
-    description: "Get Signed Url Deprecated upstream.",
+    description: "Get Signed Url. Deprecated upstream.",
     inputSchema: getSignedUrlDeprecatedInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9494,7 +9494,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_similar_library_voices",
     domain: "voices",
-    description: "Get Similar Library Voices Spends ElevenLabs credits.",
+    description: "Get Similar Library Voices. Spends ElevenLabs credits.",
     inputSchema: getSimilarLibraryVoicesInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -9514,7 +9514,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_single_use_token",
     domain: "single-use-token",
-    description: "Create Single Use Token",
+    description: "Create Single Use Token.",
     inputSchema: getSingleUseTokenInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9524,7 +9524,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_speaker_audio",
     domain: "pvc-voices",
-    description: "Retrieve Separated Speaker Audio",
+    description: "Retrieve Separated Speaker Audio.",
     inputSchema: getSpeakerAudioInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9534,7 +9534,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_speech_engine",
     domain: "speech-engine",
-    description: "Get Speech Engine",
+    description: "Get Speech Engine.",
     inputSchema: getSpeechEngineInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9544,7 +9544,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_speech_history",
     domain: "speech-history",
-    description: "List Generated Items",
+    description: "List Generated Items.",
     inputSchema: getSpeechHistoryInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9554,7 +9554,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_speech_history_item_by_id",
     domain: "speech-history",
-    description: "Get History Item",
+    description: "Get History Item.",
     inputSchema: getSpeechHistoryItemByIdInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9564,7 +9564,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_test_invocation_route",
     domain: "convai",
-    description: "Get Test Invocation",
+    description: "Get Test Invocation.",
     inputSchema: getTestInvocationRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9574,7 +9574,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_text_to_speech_generation",
     domain: "flows",
-    description: "Get Speech Generation",
+    description: "Get Speech Generation.",
     inputSchema: getTextToSpeechGenerationInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9584,7 +9584,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_tool_dependent_agents_route",
     domain: "agents-platform",
-    description: "Get Dependent Agents List",
+    description: "Get Dependent Agents List.",
     inputSchema: getToolDependentAgentsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9594,7 +9594,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_tool_executions_route",
     domain: "agents-platform",
-    description: "Get Tool Executions",
+    description: "Get Tool Executions.",
     inputSchema: getToolExecutionsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9604,7 +9604,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_tool_route",
     domain: "agents-platform",
-    description: "Get Tool",
+    description: "Get Tool.",
     inputSchema: getToolRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9614,7 +9614,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_tools_route",
     domain: "agents-platform",
-    description: "Get Tools",
+    description: "Get Tools.",
     inputSchema: getToolsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9624,7 +9624,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_transcript_by_id",
     domain: "speech-to-text",
-    description: "Get Transcript By Id",
+    description: "Get Transcript By Id.",
     inputSchema: getTranscriptByIdInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9634,7 +9634,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_user_info",
     domain: "user",
-    description: "Get User Info",
+    description: "Get User Info.",
     inputSchema: getUserInfoInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9644,7 +9644,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_user_subscription_info",
     domain: "user",
-    description: "Get User Subscription Info",
+    description: "Get User Subscription Info.",
     inputSchema: getUserSubscriptionInfoInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9654,7 +9654,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_user_voices_v2",
     domain: "voices",
-    description: "Get Voices V2",
+    description: "Get Voices V2.",
     inputSchema: getUserVoicesV2Input,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9664,7 +9664,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_version_metadata_route",
     domain: "agents-platform",
-    description: "Get Agent Version Metadata",
+    description: "Get Agent Version Metadata.",
     inputSchema: getVersionMetadataRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9674,7 +9674,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_video_generation",
     domain: "flows",
-    description: "Get Video Generation",
+    description: "Get Video Generation.",
     inputSchema: getVideoGenerationInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9684,7 +9684,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_voice_accents",
     domain: "voices",
-    description: "Get Voice Accents",
+    description: "Get Voice Accents.",
     inputSchema: getVoiceAccentsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9694,7 +9694,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_voice_by_id",
     domain: "voices",
-    description: "Get Voice",
+    description: "Get Voice.",
     inputSchema: getVoiceByIdInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9704,7 +9704,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_voice_settings",
     domain: "voices",
-    description: "Get Voice Settings",
+    description: "Get Voice Settings.",
     inputSchema: getVoiceSettingsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9724,7 +9724,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_voices",
     domain: "voices",
-    description: "List Voices",
+    description: "List Voices.",
     inputSchema: getVoicesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9734,7 +9734,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_whatsapp_account",
     domain: "agents-platform",
-    description: "Get Whatsapp Account",
+    description: "Get Whatsapp Account.",
     inputSchema: getWhatsappAccountInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9744,7 +9744,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_workspace_audit_logs",
     domain: "workspace",
-    description: "Get Workspace Audit Logs",
+    description: "Get Workspace Audit Logs.",
     inputSchema: getWorkspaceAuditLogsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9764,7 +9764,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_workspace_members",
     domain: "workspace",
-    description: "Get Workspace Members",
+    description: "Get Workspace Members.",
     inputSchema: getWorkspaceMembersInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9774,7 +9774,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_workspace_service_accounts",
     domain: "workspace",
-    description: "Get Workspace Service Accounts",
+    description: "Get Workspace Service Accounts.",
     inputSchema: getWorkspaceServiceAccountsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9784,7 +9784,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "get_workspace_webhooks_route",
     domain: "workspace",
-    description: "List Workspace Webhooks",
+    description: "List Workspace Webhooks.",
     inputSchema: getWorkspaceWebhooksRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9794,7 +9794,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "handle_exotel_outbound_call",
     domain: "agents-platform",
-    description: "Handle An Outbound Call Via Exotel",
+    description: "Handle An Outbound Call Via Exotel.",
     inputSchema: handleExotelOutboundCallInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9804,7 +9804,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "handle_sip_trunk_outbound_call",
     domain: "agents-platform",
-    description: "Handle An Outbound Call Via Sip Trunk",
+    description: "Handle An Outbound Call Via Sip Trunk.",
     inputSchema: handleSipTrunkOutboundCallInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9814,7 +9814,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "handle_twilio_outbound_call",
     domain: "agents-platform",
-    description: "Handle An Outbound Call Via Twilio",
+    description: "Handle An Outbound Call Via Twilio.",
     inputSchema: handleTwilioOutboundCallInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9824,7 +9824,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "invite_user",
     domain: "workspace",
-    description: "Invite User",
+    description: "Invite User.",
     inputSchema: inviteUserInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9834,7 +9834,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "invite_users_bulk",
     domain: "workspace",
-    description: "Invite Multiple Users",
+    description: "Invite Multiple Users.",
     inputSchema: inviteUsersBulkInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -9844,7 +9844,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_agent_conversation_tickets_route",
     domain: "convai",
-    description: "List Agent Conversation Tickets",
+    description: "List Agent Conversation Tickets.",
     inputSchema: listAgentConversationTicketsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9854,7 +9854,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_assets",
     domain: "assets",
-    description: "List Assets",
+    description: "List Assets.",
     inputSchema: listAssetsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9864,7 +9864,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_auth_connections",
     domain: "workspace",
-    description: "Get Workspace Auth Connections",
+    description: "Get Workspace Auth Connections.",
     inputSchema: listAuthConnectionsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9874,7 +9874,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_available_llms",
     domain: "agents-platform",
-    description: "List Available Llms",
+    description: "List Available Llms.",
     inputSchema: listAvailableLlmsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9884,7 +9884,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_chat_response_tests_route",
     domain: "convai",
-    description: "List Agent Response Tests",
+    description: "List Agent Response Tests.",
     inputSchema: listChatResponseTestsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9894,7 +9894,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_conversation_tags_route",
     domain: "agents-platform",
-    description: "List Conversation Tags",
+    description: "List Conversation Tags.",
     inputSchema: listConversationTagsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9904,7 +9904,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_crawl_jobs_route",
     domain: "conversational-ai",
-    description: "List Ongoing And Recent Crawl Jobs Created By A User",
+    description: "List Ongoing And Recent Crawl Jobs Created By A User.",
     inputSchema: listCrawlJobsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9914,7 +9914,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_dubs",
     domain: "dubbing",
-    description: "List Dubs",
+    description: "List Dubs.",
     inputSchema: listDubsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9924,7 +9924,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_environment_variables",
     domain: "agents-platform",
-    description: "List Environment Variables",
+    description: "List Environment Variables.",
     inputSchema: listEnvironmentVariablesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9934,7 +9934,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_image_generations",
     domain: "flows",
-    description: "List Image Generations",
+    description: "List Image Generations.",
     inputSchema: listImageGenerationsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9944,7 +9944,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_mcp_server_tools_route",
     domain: "agents-platform",
-    description: "List Mcp Server Tools",
+    description: "List Mcp Server Tools.",
     inputSchema: listMcpServerToolsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9954,7 +9954,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_mcp_servers_route",
     domain: "agents-platform",
-    description: "List Mcp Servers",
+    description: "List Mcp Servers.",
     inputSchema: listMcpServersRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9964,7 +9964,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_phone_numbers_route",
     domain: "agents-platform",
-    description: "List Phone Numbers",
+    description: "List Phone Numbers.",
     inputSchema: listPhoneNumbersRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9974,7 +9974,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_procedures_route",
     domain: "agents-platform",
-    description: "List Procedures",
+    description: "List Procedures.",
     inputSchema: listProceduresRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9984,7 +9984,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_sip_messages",
     domain: "agents-platform",
-    description: "Get Sip Messages For A Phone Number",
+    description: "Get Sip Messages For A Phone Number.",
     inputSchema: listSipMessagesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -9994,7 +9994,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_speech_engines",
     domain: "speech-engine",
-    description: "List Speech Engines",
+    description: "List Speech Engines.",
     inputSchema: listSpeechEnginesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10004,7 +10004,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_test_invocations_route",
     domain: "convai",
-    description: "List Test Invocations",
+    description: "List Test Invocations.",
     inputSchema: listTestInvocationsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10014,7 +10014,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_text_to_speech_generations",
     domain: "flows",
-    description: "List Speech Generations",
+    description: "List Speech Generations.",
     inputSchema: listTextToSpeechGenerationsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10024,7 +10024,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_video_generations",
     domain: "flows",
-    description: "List Video Generations",
+    description: "List Video Generations.",
     inputSchema: listVideoGenerationsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10034,7 +10034,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_whatsapp_accounts",
     domain: "agents-platform",
-    description: "List Whatsapp Accounts",
+    description: "List Whatsapp Accounts.",
     inputSchema: listWhatsappAccountsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10044,7 +10044,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "list_workspace_conversation_tickets_route",
     domain: "convai",
-    description: "List Workspace Conversation Tickets",
+    description: "List Workspace Conversation Tickets.",
     inputSchema: listWorkspaceConversationTicketsRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10054,7 +10054,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "merge_branch_into_target",
     domain: "agents-platform",
-    description: "Merge A Branch Into A Target Branch",
+    description: "Merge A Branch Into A Target Branch.",
     inputSchema: mergeBranchIntoTargetInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10064,7 +10064,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "merge_preview_route",
     domain: "agents-platform",
-    description: "Preview Merged Configuration",
+    description: "Preview Merged Configuration.",
     inputSchema: mergePreviewRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10074,7 +10074,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "migrate_segments",
     domain: "dubbing",
-    description: "Move Segments Between Speakers Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Move Segments Between Speakers. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: migrateSegmentsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10084,7 +10084,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "patch_agent_settings_route",
     domain: "agents-platform",
-    description: "Patches An Agent Settings",
+    description: "Patches An Agent Settings.",
     inputSchema: patchAgentSettingsRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10094,7 +10094,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "patch_pronunciation_dictionary",
     domain: "pronunciation-dictionary",
-    description: "Update Pronunciation Dictionary",
+    description: "Update Pronunciation Dictionary.",
     inputSchema: patchPronunciationDictionaryInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10104,7 +10104,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "post_agent_avatar_route",
     domain: "agents-platform",
-    description: "Post Agent Avatar",
+    description: "Post Agent Avatar.",
     inputSchema: postAgentAvatarRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10114,7 +10114,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "post_agent_hold_audio_route",
     domain: "agents-platform",
-    description: "Post Agent Hold Audio",
+    description: "Post Agent Hold Audio.",
     inputSchema: postAgentHoldAudioRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10124,7 +10124,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "post_conversation_feedback_route",
     domain: "agents-platform",
-    description: "Send Conversation Feedback",
+    description: "Send Conversation Feedback.",
     inputSchema: postConversationFeedbackRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10134,7 +10134,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "post_knowledge_base_bulk_delete_route",
     domain: "agents-platform",
-    description: "Bulk Delete Knowledge Base Documents",
+    description: "Bulk Delete Knowledge Base Documents.",
     inputSchema: postKnowledgeBaseBulkDeleteRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10144,7 +10144,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "post_knowledge_base_bulk_move_route",
     domain: "conversational-ai",
-    description: "Bulk Move Entities To Folder",
+    description: "Bulk Move Entities To Folder.",
     inputSchema: postKnowledgeBaseBulkMoveRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10154,7 +10154,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "post_knowledge_base_move_route",
     domain: "conversational-ai",
-    description: "Move Entity To Folder",
+    description: "Move Entity To Folder.",
     inputSchema: postKnowledgeBaseMoveRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10164,7 +10164,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_create_order",
     domain: "productions",
-    description: "Create Order Spends ElevenLabs credits.",
+    description: "Create Order. Spends ElevenLabs credits.",
     inputSchema: publicCreateOrderInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10174,7 +10174,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_get_available_languages",
     domain: "productions",
-    description: "Get Available Languages",
+    description: "Get Available Languages.",
     inputSchema: publicGetAvailableLanguagesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10184,7 +10184,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_get_media_info",
     domain: "productions",
-    description: "Get Media Info",
+    description: "Get Media Info.",
     inputSchema: publicGetMediaInfoInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10194,7 +10194,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_get_order",
     domain: "productions",
-    description: "Get Order",
+    description: "Get Order.",
     inputSchema: publicGetOrderInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10204,7 +10204,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_get_order_deliverables",
     domain: "productions",
-    description: "Get Order Deliverables",
+    description: "Get Order Deliverables.",
     inputSchema: publicGetOrderDeliverablesInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10214,7 +10214,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_list_orders",
     domain: "productions",
-    description: "List Orders",
+    description: "List Orders.",
     inputSchema: publicListOrdersInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10224,7 +10224,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_register_media",
     domain: "productions",
-    description: "Register Media Spends ElevenLabs credits.",
+    description: "Register Media. Spends ElevenLabs credits.",
     inputSchema: publicRegisterMediaInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10234,7 +10234,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_remove_order_item",
     domain: "productions",
-    description: "Remove Order Item",
+    description: "Remove Order Item.",
     inputSchema: publicRemoveOrderItemInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -10244,7 +10244,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_submit_order",
     domain: "productions",
-    description: "Submit Order Spends ElevenLabs credits.",
+    description: "Submit Order. Spends ElevenLabs credits.",
     inputSchema: publicSubmitOrderInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10254,7 +10254,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_update_order",
     domain: "productions",
-    description: "Update Order Spends ElevenLabs credits.",
+    description: "Update Order. Spends ElevenLabs credits.",
     inputSchema: publicUpdateOrderInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10264,7 +10264,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "public_upsert_order_item",
     domain: "productions",
-    description: "Upsert Order Item Spends ElevenLabs credits.",
+    description: "Upsert Order Item. Spends ElevenLabs credits.",
     inputSchema: publicUpsertOrderItemInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10274,7 +10274,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "query_agent_knowledge_base_rag_route",
     domain: "agents-platform",
-    description: "Query Agent Knowledge Base Rag",
+    description: "Query Agent Knowledge Base Rag.",
     inputSchema: queryAgentKnowledgeBaseRagRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10294,7 +10294,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "rebase_branch_onto_main",
     domain: "agents-platform",
-    description: "Rebase A Branch Onto Main",
+    description: "Rebase A Branch Onto Main.",
     inputSchema: rebaseBranchOntoMainInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10304,7 +10304,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "rebase_preview_route",
     domain: "agents-platform",
-    description: "Preview Rebased Configuration",
+    description: "Preview Rebased Configuration.",
     inputSchema: rebasePreviewRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10314,7 +10314,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "redirect_to_mintlify",
     domain: "docs",
-    description: "Redirect To Mintlify",
+    description: "Redirect To Mintlify.",
     inputSchema: redirectToMintlifyInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10324,7 +10324,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "refresh_url_document_route",
     domain: "agents-platform",
-    description: "Refresh Url Document Content",
+    description: "Refresh Url Document Content.",
     inputSchema: refreshUrlDocumentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10334,7 +10334,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "register_twilio_call",
     domain: "agents-platform",
-    description: "Register A Twilio Call And Return Twiml",
+    description: "Register A Twilio Call And Return Twiml.",
     inputSchema: registerTwilioCallInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10344,7 +10344,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "remove_mcp_server_tool_approval_route",
     domain: "agents-platform",
-    description: "Delete Mcp Server Tool Approval",
+    description: "Delete Mcp Server Tool Approval.",
     inputSchema: removeMcpServerToolApprovalRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -10354,7 +10354,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "remove_mcp_tool_config_override_route",
     domain: "agents-platform",
-    description: "Delete Mcp Tool Configuration Override",
+    description: "Delete Mcp Tool Configuration Override.",
     inputSchema: removeMcpToolConfigOverrideRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -10364,7 +10364,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "remove_member",
     domain: "workspace",
-    description: "Delete Member From User Group",
+    description: "Delete Member From User Group.",
     inputSchema: removeMemberInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10374,7 +10374,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "remove_procedure_route",
     domain: "agents-platform",
-    description: "Remove Procedure",
+    description: "Remove Procedure.",
     inputSchema: removeProcedureRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -10384,7 +10384,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "remove_rules",
     domain: "pronunciation-dictionary",
-    description: "Remove Rules From The Pronunciation Dictionary",
+    description: "Remove Rules From The Pronunciation Dictionary.",
     inputSchema: removeRulesInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10394,7 +10394,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "render",
     domain: "dubbing",
-    description: "Render Audio Or Video For The Given Language Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Render Audio Or Video For The Given Language. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: renderInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10404,7 +10404,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "replicate_voice_to_isolated_environment",
     domain: "voices",
-    description: "Replicate Voice To Isolated Environment",
+    description: "Replicate Voice To Isolated Environment.",
     inputSchema: replicateVoiceToIsolatedEnvironmentInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10414,7 +10414,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "request_pvc_manual_verification",
     domain: "pvc-voices",
-    description: "Request Manual Verification",
+    description: "Request Manual Verification.",
     inputSchema: requestPvcManualVerificationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10424,7 +10424,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "requests_list",
     domain: "access-all",
-    description: "List Api Requests",
+    description: "List Api Requests.",
     inputSchema: requestsListInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10434,7 +10434,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "resolve_conversation_reference_route",
     domain: "agents-platform",
-    description: "Resolve Conversation Reference",
+    description: "Resolve Conversation Reference.",
     inputSchema: resolveConversationReferenceRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10444,7 +10444,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "resubmit_tests_route",
     domain: "convai",
-    description: "Resubmit Tests",
+    description: "Resubmit Tests.",
     inputSchema: resubmitTestsRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10464,7 +10464,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "run_agent_test_suite_route",
     domain: "convai",
-    description: "Run Tests On The Agent",
+    description: "Run Tests On The Agent.",
     inputSchema: runAgentTestSuiteRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10474,7 +10474,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "run_conversation_analysis",
     domain: "agents-workspace-analytics",
-    description: "Run Conversation Analysis",
+    description: "Run Conversation Analysis.",
     inputSchema: runConversationAnalysisInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10484,7 +10484,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "run_conversation_evaluations",
     domain: "agents-workspace-analytics",
-    description: "Run Conversation Evaluation",
+    description: "Run Conversation Evaluation.",
     inputSchema: runConversationEvaluationsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10494,7 +10494,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "run_conversation_simulation_route",
     domain: "agents-platform",
-    description: "Simulates A Conversation Deprecated upstream.",
+    description: "Simulates A Conversation. Deprecated upstream.",
     inputSchema: runConversationSimulationRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10514,7 +10514,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "run_pvc_voice_training",
     domain: "pvc-voices",
-    description: "Run Pvc Training",
+    description: "Run Pvc Training.",
     inputSchema: runPvcVoiceTrainingInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10524,7 +10524,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "search_groups",
     domain: "workspace",
-    description: "Search User Groups",
+    description: "Search User Groups.",
     inputSchema: searchGroupsInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10534,7 +10534,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "search_knowledge_base_content_route",
     domain: "agents-platform",
-    description: "Search Knowledge Base Content",
+    description: "Search Knowledge Base Content.",
     inputSchema: searchKnowledgeBaseContentRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10544,7 +10544,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "separate_song_stems",
     domain: "music-generation",
-    description: "Stem Separation Spends ElevenLabs credits. Returns application/zip bytes; pass output_path to save them.",
+    description: "Stem Separation. Spends ElevenLabs credits. Returns application/zip bytes; pass output_path to save them.",
     inputSchema: separateSongStemsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10554,7 +10554,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "set_rules",
     domain: "pronunciation-dictionary",
-    description: "Set Rules On The Pronunciation Dictionary",
+    description: "Set Rules On The Pronunciation Dictionary.",
     inputSchema: setRulesInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10564,7 +10564,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "set_third_party_disabling_policy",
     domain: "workspace",
-    description: "Set Workspace Third-Party Disabling Policy",
+    description: "Set Workspace Third-Party Disabling Policy.",
     inputSchema: setThirdPartyDisablingPolicyInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10574,7 +10574,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "share_resource_endpoint",
     domain: "workspace",
-    description: "Share Workspace Resource",
+    description: "Share Workspace Resource.",
     inputSchema: shareResourceEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10584,7 +10584,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "smart_search_conversation_messages_route",
     domain: "agents-platform",
-    description: "Smart Search Conversation Messages",
+    description: "Smart Search Conversation Messages.",
     inputSchema: smartSearchConversationMessagesRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10594,7 +10594,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "sound_generation",
     domain: "sound-generation",
-    description: "Sound Generation Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Sound Generation. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: soundGenerationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10604,7 +10604,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "speech_to_speech_full",
     domain: "speech-to-speech",
-    description: "Speech To Speech Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Speech To Speech. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: speechToSpeechFullInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10614,7 +10614,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "speech_to_speech_stream",
     domain: "speech-to-speech",
-    description: "Speech To Speech Streaming Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Speech To Speech Streaming. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: speechToSpeechStreamInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10624,7 +10624,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "speech_to_text",
     domain: "speech-to-text",
-    description: "Speech To Text Spends ElevenLabs credits.",
+    description: "Speech To Text. Spends ElevenLabs credits.",
     inputSchema: speechToTextInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10634,7 +10634,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "start_speaker_separation",
     domain: "pvc-voices",
-    description: "Start Speaker Separation",
+    description: "Start Speaker Separation.",
     inputSchema: startSpeakerSeparationInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10644,7 +10644,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "stream_chapter_snapshot_audio",
     domain: "studio",
-    description: "Stream Chapter Audio Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Stream Chapter Audio. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: streamChapterSnapshotAudioInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10654,7 +10654,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "stream_compose",
     domain: "music-generation",
-    description: "Stream Composed Music Spends ElevenLabs credits. Returns audio/* bytes; pass output_path to save them.",
+    description: "Stream Composed Music. Spends ElevenLabs credits. Returns audio/* bytes; pass output_path to save them.",
     inputSchema: streamComposeInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10664,7 +10664,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "stream_project_snapshot_archive_endpoint",
     domain: "studio",
-    description: "Stream Archive With Studio Project Audio Spends ElevenLabs credits. Returns application/x-zip bytes; pass output_path to save them.",
+    description: "Stream Archive With Studio Project Audio. Spends ElevenLabs credits. Returns application/x-zip bytes; pass output_path to save them.",
     inputSchema: streamProjectSnapshotArchiveEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10674,7 +10674,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "stream_project_snapshot_audio_endpoint",
     domain: "studio",
-    description: "Stream Studio Project Audio Spends ElevenLabs credits.",
+    description: "Stream Studio Project Audio. Spends ElevenLabs credits.",
     inputSchema: streamProjectSnapshotAudioEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10684,7 +10684,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_search_conversation_messages_route",
     domain: "agents-platform",
-    description: "Text Search Conversation Messages",
+    description: "Text Search Conversation Messages.",
     inputSchema: textSearchConversationMessagesRouteInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10704,7 +10704,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_dialogue_full_with_timestamps",
     domain: "text-to-dialogue",
-    description: "Text To Dialogue With Timestamps Spends ElevenLabs credits.",
+    description: "Text To Dialogue With Timestamps. Spends ElevenLabs credits.",
     inputSchema: textToDialogueFullWithTimestampsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10714,7 +10714,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_dialogue_stream",
     domain: "text-to-dialogue",
-    description: "Text To Dialogue (Multi-Voice) Streaming Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Text To Dialogue (Multi-Voice) Streaming. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: textToDialogueStreamInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10724,7 +10724,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_dialogue_stream_with_timestamps",
     domain: "text-to-dialogue",
-    description: "Text To Dialogue Streaming With Timestamps Spends ElevenLabs credits.",
+    description: "Text To Dialogue Streaming With Timestamps. Spends ElevenLabs credits.",
     inputSchema: textToDialogueStreamWithTimestampsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10734,7 +10734,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_speech_full",
     domain: "text-to-speech",
-    description: "Text To Speech Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Text To Speech. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: textToSpeechFullInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10744,7 +10744,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_speech_full_with_timestamps",
     domain: "text-to-speech",
-    description: "Text To Speech With Timestamps Spends ElevenLabs credits.",
+    description: "Text To Speech With Timestamps. Spends ElevenLabs credits.",
     inputSchema: textToSpeechFullWithTimestampsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10754,7 +10754,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_speech_stream",
     domain: "text-to-speech",
-    description: "Text To Speech Streaming Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Text To Speech Streaming. Spends ElevenLabs credits. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: textToSpeechStreamInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10764,7 +10764,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_speech_stream_with_timestamps",
     domain: "text-to-speech",
-    description: "Text To Speech Streaming With Timestamps Spends ElevenLabs credits.",
+    description: "Text To Speech Streaming With Timestamps. Spends ElevenLabs credits.",
     inputSchema: textToSpeechStreamWithTimestampsInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10774,7 +10774,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_voice",
     domain: "text-to-voice",
-    description: "[Deprecated] Generate A Voice Preview From Description Spends ElevenLabs credits. Deprecated upstream.",
+    description: "[Deprecated] Generate A Voice Preview From Description. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: textToVoiceInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10794,7 +10794,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "text_to_voice_preview_stream",
     domain: "text-to-voice",
-    description: "Text To Voice Preview Streaming Returns audio/mpeg bytes; pass output_path to save them.",
+    description: "Text To Voice Preview Streaming. Returns audio/mpeg bytes; pass output_path to save them.",
     inputSchema: textToVoicePreviewStreamInput,
     annotations: {"readOnlyHint":true,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10814,7 +10814,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "transcribe",
     domain: "dubbing",
-    description: "Transcribes Segments Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Transcribes Segments. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: transcribeInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10824,7 +10824,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "translate",
     domain: "dubbing",
-    description: "Translates All Or Some Segments And Languages Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Translates All Or Some Segments And Languages. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: translateInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10834,7 +10834,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "unassign_conversation_tag_route",
     domain: "agents-platform",
-    description: "Unassign Conversation Tag",
+    description: "Unassign Conversation Tag.",
     inputSchema: unassignConversationTagRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":true,"idempotentHint":true},
     costsCredits: false,
@@ -10844,7 +10844,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "unshare_resource_endpoint",
     domain: "workspace",
-    description: "Unshare Workspace Resource",
+    description: "Unshare Workspace Resource.",
     inputSchema: unshareResourceEndpointInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10854,7 +10854,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_agent_conversation_ticket_route",
     domain: "convai",
-    description: "Update Agent Conversation Ticket",
+    description: "Update Agent Conversation Ticket.",
     inputSchema: updateAgentConversationTicketRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10864,7 +10864,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_agent_response_test_route",
     domain: "convai",
-    description: "Update Agent Response Test",
+    description: "Update Agent Response Test.",
     inputSchema: updateAgentResponseTestRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":true},
     costsCredits: false,
@@ -10874,7 +10874,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_agent_test_folder_route",
     domain: "agents-platform",
-    description: "Update Agent Test Folder",
+    description: "Update Agent Test Folder.",
     inputSchema: updateAgentTestFolderRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10884,7 +10884,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_auth_connection",
     domain: "workspace",
-    description: "Update Workspace Auth Connection",
+    description: "Update Workspace Auth Connection.",
     inputSchema: updateAuthConnectionInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10894,7 +10894,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_branch_route",
     domain: "agents-platform",
-    description: "Update Agent Branch",
+    description: "Update Agent Branch.",
     inputSchema: updateBranchRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10904,7 +10904,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_conversation_tag_route",
     domain: "agents-platform",
-    description: "Update Conversation Tag",
+    description: "Update Conversation Tag.",
     inputSchema: updateConversationTagRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10914,7 +10914,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_dashboard_settings_route",
     domain: "agents-platform",
-    description: "Update Convai Dashboard Settings",
+    description: "Update Convai Dashboard Settings.",
     inputSchema: updateDashboardSettingsRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10924,7 +10924,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_document_route",
     domain: "agents-platform",
-    description: "Update Document",
+    description: "Update Document.",
     inputSchema: updateDocumentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10934,7 +10934,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_environment_variable",
     domain: "agents-platform",
-    description: "Update Environment Variable",
+    description: "Update Environment Variable.",
     inputSchema: updateEnvironmentVariableInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10944,7 +10944,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_file_document_route",
     domain: "agents-platform",
-    description: "Update File Document",
+    description: "Update File Document.",
     inputSchema: updateFileDocumentRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10954,7 +10954,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_finetune",
     domain: "music-finetunes",
-    description: "Update Music Finetune Spends ElevenLabs credits.",
+    description: "Update Music Finetune. Spends ElevenLabs credits.",
     inputSchema: updateFinetuneInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -10964,7 +10964,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_mcp_server_approval_policy_route",
     domain: "agents-platform",
-    description: "Update Mcp Server Approval Policy Deprecated upstream.",
+    description: "Update Mcp Server Approval Policy. Deprecated upstream.",
     inputSchema: updateMcpServerApprovalPolicyRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10974,7 +10974,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_mcp_server_config_route",
     domain: "agents-platform",
-    description: "Update Mcp Server Configuration",
+    description: "Update Mcp Server Configuration.",
     inputSchema: updateMcpServerConfigRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10984,7 +10984,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_mcp_tool_config_override_route",
     domain: "agents-platform",
-    description: "Update Mcp Tool Configuration Override",
+    description: "Update Mcp Tool Configuration Override.",
     inputSchema: updateMcpToolConfigOverrideRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -10994,7 +10994,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_phone_number_route",
     domain: "agents-platform",
-    description: "Update Phone Number",
+    description: "Update Phone Number.",
     inputSchema: updatePhoneNumberRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11004,7 +11004,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_procedure_draft_route",
     domain: "agents-platform",
-    description: "Update Procedure Draft",
+    description: "Update Procedure Draft.",
     inputSchema: updateProcedureDraftRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11014,7 +11014,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_pronunciation_dictionaries",
     domain: "studio",
-    description: "Create Pronunciation Dictionaries Spends ElevenLabs credits.",
+    description: "Create Pronunciation Dictionaries. Spends ElevenLabs credits.",
     inputSchema: updatePronunciationDictionariesInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -11024,7 +11024,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_secret_route",
     domain: "agents-platform",
-    description: "Update Convai Workspace Secret",
+    description: "Update Convai Workspace Secret.",
     inputSchema: updateSecretRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11034,7 +11034,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_segment_language",
     domain: "dubbing",
-    description: "Modify A Single Segment Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Modify A Single Segment. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: updateSegmentLanguageInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -11044,7 +11044,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_settings_route",
     domain: "agents-platform",
-    description: "Update Convai Settings",
+    description: "Update Convai Settings.",
     inputSchema: updateSettingsRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11054,7 +11054,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_speaker",
     domain: "dubbing",
-    description: "Update Metadata For A Speaker Spends ElevenLabs credits. Deprecated upstream.",
+    description: "Update Metadata For A Speaker. Spends ElevenLabs credits. Deprecated upstream.",
     inputSchema: updateSpeakerInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -11064,7 +11064,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_speech_engine",
     domain: "speech-engine",
-    description: "Update Speech Engine",
+    description: "Update Speech Engine.",
     inputSchema: updateSpeechEngineInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11074,7 +11074,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_tool_route",
     domain: "agents-platform",
-    description: "Update Tool",
+    description: "Update Tool.",
     inputSchema: updateToolRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11084,7 +11084,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_whatsapp_account",
     domain: "agents-platform",
-    description: "Update Whatsapp Account",
+    description: "Update Whatsapp Account.",
     inputSchema: updateWhatsappAccountInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11094,7 +11094,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "update_workspace_member",
     domain: "workspace",
-    description: "Update Member",
+    description: "Update Member.",
     inputSchema: updateWorkspaceMemberInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11104,7 +11104,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "upload_asset",
     domain: "assets",
-    description: "Upload Asset",
+    description: "Upload Asset.",
     inputSchema: uploadAssetInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11114,7 +11114,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "upload_file_route",
     domain: "agents-platform",
-    description: "Upload File",
+    description: "Upload File.",
     inputSchema: uploadFileRouteInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11124,7 +11124,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "upload_song",
     domain: "music-generation",
-    description: "Upload Music Spends ElevenLabs credits.",
+    description: "Upload Music. Spends ElevenLabs credits.",
     inputSchema: uploadSongInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -11134,7 +11134,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "usage_by_product_over_time",
     domain: "access-all",
-    description: "Get Workspace Usage",
+    description: "Get Workspace Usage.",
     inputSchema: usageByProductOverTimeInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11154,7 +11154,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "verify_pvc_voice_captcha",
     domain: "pvc-voices",
-    description: "Verify Pvc Voice Captcha",
+    description: "Verify Pvc Voice Captcha.",
     inputSchema: verifyPvcVoiceCaptchaInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11164,7 +11164,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "video_to_music",
     domain: "video-to-music",
-    description: "Video To Music Spends ElevenLabs credits. Returns application/zip bytes; pass output_path to save them.",
+    description: "Video To Music. Spends ElevenLabs credits. Returns application/zip bytes; pass output_path to save them.",
     inputSchema: videoToMusicInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: true,
@@ -11174,7 +11174,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "whatsapp_outbound_call",
     domain: "agents-platform",
-    description: "Make An Outbound Call Via Whatsapp",
+    description: "Make An Outbound Call Via Whatsapp.",
     inputSchema: whatsappOutboundCallInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,
@@ -11184,7 +11184,7 @@ export const generatedTools: GeneratedTool[] = [
   {
     name: "whatsapp_outbound_message",
     domain: "agents-platform",
-    description: "Send An Outbound Message Via Whatsapp",
+    description: "Send An Outbound Message Via Whatsapp.",
     inputSchema: whatsappOutboundMessageInput,
     annotations: {"readOnlyHint":false,"destructiveHint":false,"idempotentHint":false},
     costsCredits: false,

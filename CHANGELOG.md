@@ -2,6 +2,13 @@
 
 All notable changes to `@aiwerk/mcp-server-elevenlabs`.
 
+## [0.1.1] - 2026-09-13
+
+### Fixed
+- Tool descriptions ran two sentences together when the upstream summary had no
+  full stop of its own ("Create Chapter Spends ElevenLabs credits."). That text is
+  what the agent reads on every call and what the public catalogue page renders.
+
 ## [0.1.0] - 2026-09-13
 
 First release.

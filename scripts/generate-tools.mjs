@@ -383,7 +383,15 @@ for (const op of naming.operations) {
   if (!byDomain.has(op.domain)) byDomain.set(op.domain, []);
   byDomain.get(op.domain).push(built.source);
 
-  const parts = [(op.summary || op.description || op.tool_name).replace(/\s+/g, ' ').trim()];
+  // Each clause has to end in a stop of its own: joined bare, an upstream summary
+  // with no full stop runs straight into the next sentence ("Create Chapter Spends
+  // ElevenLabs credits."), and that text is what both the agent and the public
+  // catalogue page read.
+  const sentence = (text) => {
+    const t = String(text ?? '').replace(/\s+/g, ' ').trim();
+    return t === '' || /[.!?:)]$/.test(t) ? t : `${t}.`;
+  };
+  const parts = [sentence(op.summary || op.description || op.tool_name)];
   if (op.costsCredits) parts.push('Spends ElevenLabs credits.');
   if (op.deprecated) parts.push('Deprecated upstream.');
   if (op.binaryResponse) parts.push(`Returns ${op.binaryResponse.primary} bytes; pass output_path to save them.`);

@@ -1,6 +1,6 @@
 {
   "name": "@aiwerk/mcp-server-elevenlabs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ElevenLabs MCP server. 390 tools generated from the live ElevenLabs OpenAPI specification, with file uploads and audio downloads.",
   "type": "module",
   "main": "dist/src/server.js",
