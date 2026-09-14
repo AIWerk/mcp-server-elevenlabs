@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/AIWerk/mcp-server-elevenlabs@master/oauth/client-metadata.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/AIWerk/mcp-server-elevenlabs@oauth-client-v1/oauth/client-metadata.json",
   "client_name": "AIWerk MCP Bridge",
   "client_uri": "https://aiwerkmcp.com",
   "logo_uri": "https://aiwerkmcp.com/favicon.png",
