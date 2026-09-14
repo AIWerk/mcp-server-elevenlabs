@@ -1,13 +1,20 @@
 {
-  "client_id": "https://raw.githubusercontent.com/AIWerk/mcp-server-elevenlabs/master/oauth/client-metadata.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/AIWerk/mcp-server-elevenlabs@master/oauth/client-metadata.json",
   "client_name": "AIWerk MCP Bridge",
   "client_uri": "https://aiwerkmcp.com",
   "logo_uri": "https://aiwerkmcp.com/favicon.png",
   "tos_uri": "https://aiwerkmcp.com/#/nutzungsbedingungen",
   "policy_uri": "https://aiwerkmcp.com/#/datenschutz",
-  "redirect_uris": ["http://localhost:8765/callback"],
-  "grant_types": ["authorization_code", "refresh_token"],
-  "response_types": ["code"],
+  "redirect_uris": [
+    "http://localhost:8765/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
   "token_endpoint_auth_method": "none",
   "scope": "convai_read convai_write text_to_speech speech_history_read flows image_video_generation voice_generation"
 }
