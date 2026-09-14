@@ -55,6 +55,36 @@ Or run it straight from npx in a client config:
 Get a key at <https://elevenlabs.io/app/settings/api-keys>. The free tier includes
 10k credits a month.
 
+### Keeping the key out of the config
+
+An MCP client config is a plain file that tends to live in a repo or a dotfile, so a
+key written into its `env` block is a key in cleartext. If you keep secrets in a
+password manager, start the server through a small wrapper instead:
+
+```bash
+#!/usr/bin/env bash
+set -euo pipefail
+ELEVENLABS_API_KEY="$(pass show api/elevenlabs | head -1)"   # or your own manager
+export ELEVENLABS_API_KEY
+exec npx -y @aiwerk/mcp-server-elevenlabs@0.1.1 "$@"
+```
+
+```json
+{
+  "mcpServers": {
+    "elevenlabs": {
+      "command": "/path/to/the/wrapper",
+      "env": { "ELEVENLABS_OUTPUT_DIR": "/where/audio/should/land" }
+    }
+  }
+}
+```
+
+The secret is read at start-up and handed to the process as its own environment
+variable, so it never appears in `argv` where other users on the machine could read
+it. Note the pinned version: a bare `npx -y <package>` resolves to whatever is newest
+at that moment, which is how an update lands in the middle of a production run.
+
 ## Configuration
 
 | Variable | Default | Purpose |
